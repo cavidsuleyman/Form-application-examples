@@ -30,7 +30,7 @@ This project was developed using the following technologies
 
 ## SAMPLE SCREEN APPEARANCE
 
-![There was a screenshot here](./screen-1.png)
+![There was a screenshot here](./screen/screen-1.png)
 ![There was a screenshot here](./screen-img/screen-2.png)
 ![There was a screenshot here](./screen-img/screen-3.png)
 ![There was a screenshot here](./screen-img/screen-4.png)
