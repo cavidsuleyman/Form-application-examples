@@ -23,8 +23,8 @@ This project was developed using the following technologies
 | No | Technique | Purpose |
 | - | ---------- | --------------------- |
 | 1 | HTML | Building a project skeleton |
-| 2 | CSS | Building a project skeleton |
-| 3 | GIT | Project version control management |
+| 2 | CSS |  Make-up of the established skeleton |
+| 3 | GIT |  Project version control management |
 | 4 | VSCode | Text editor used in the project |
 
 
