@@ -1,0 +1,150 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background: url("../img/photo/output-onlinepngtools.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.cover {
+  width: 450px;
+  height: 600px;
+  background-color: transparent;
+  text-align: center;
+}
+
+.cover h3 {
+  color: white;
+  font-family: Arial;
+  font-size: 38px;
+}
+
+.cover p {
+  line-height: 80px;
+  font-family: Arial;
+  color: white;
+  font-size: 24px;
+}
+
+.input {
+  width: 400px;
+  height: 150px;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.input .input-type {
+  width: 320px;
+  height: 60px;
+  margin: 10px;
+  outline: none;
+  border: 1px solid grey;
+  background-color: grey;
+  opacity: 0.7;
+  border-radius: 20px;
+  text-indent: 20px;
+  color: white;
+  font-size: 16px;
+}
+
+input::placeholder {
+  color: white;
+}
+
+.box {
+  width: 320px;
+  height: 60px;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid grey;
+  background-color: grey;
+  opacity: 0.7;
+  border-radius: 20px;
+}
+
+.password {
+  width: 300px;
+  height: 50px;
+  margin: 10px;
+  outline: none;
+  background-color: transparent;
+  border: none;
+  text-indent: 15px;
+  color: white;
+  font-size: 16px;
+}
+
+.input img {
+  width: 40px;
+  height: 40px;
+}
+
+.btn {
+  width: 320px;
+  height: 50px;
+  background-color: #f4cfb7;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn button {
+  border: none;
+  background-color: transparent;
+  font-family: Arial;
+  font-size: 18px;
+  color: white;
+}
+
+.btn:hover {
+  background-color: red;
+}
+
+.checkbox {
+  width: 400px;
+  height: 50px;
+  background-color: transparent;
+  margin-right: auto;
+  margin-left: auto;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 25px;
+justify-content: center;
+}
+
+.checkbox p {
+  font-size: 20px;
+  color: #f4cfb7;
+  white-space: pre;
+}
+
+.font-p {
+  text-indent: 100px;
+}
+
